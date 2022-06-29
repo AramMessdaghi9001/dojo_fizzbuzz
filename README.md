@@ -1,5 +1,5 @@
-# Coding Dojo: Fizz Buzz Kata
-Welcome to the Coding Dojo.
+# ITCS Coding Dojo: Fizz Buzz Kata
+Welcome to the OTTO Coding Dojo.
 
 This is a little kata to improve your pair programming skills.
 
